@@ -1,7 +1,7 @@
 # Computational Epidemiology
 ---
 
-This repository provides the scripts used for the final project of the computational epidemilogy course (University of Ber, 2022) along with a brief documentation.
+This repository provides the scripts used for the final project of the computational epidemilogy course (University of Bern, 2022) along with a brief documentation.
 
 ## R script descriptions
 The `SIRstandard.R` script is nearly identical to the script provided by the course.
